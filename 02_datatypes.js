@@ -18,4 +18,4 @@ console.log(3
     //objects
     console.log(typeof null);//object
     console.log(typeof Object);//function
-    console.log(typeof undefined);//undefined
+    console.log(typeof undefined);//undefined 
